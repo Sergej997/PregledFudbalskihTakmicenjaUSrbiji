@@ -1,2 +1,10 @@
-This application provides view of football competitions in Serbia. User can add new teams, competitions, matches between teams on each competition, players to each team, and statistics of each player on each match, on each tournament. In order to start application, user has to import database, located in baza.sql file, in folder Baza.
-User can use either SQLyog or phpMyAdmin as database tool. After importing baza.sql file and opening all 3 projects in java IDE (SeminarskiServer, SeminarskiKlijent, SeminarskiZajednicki), user has to start server, and this is done by right clicking formaServer.java located in package forme, located in SeminarskiServer project. After starting server, user has to log in, and this is done by right clicking formaUlogujSe.java located in package forme in SeminarskiKlijent project. User has to sign up in order to continue. Application is done in Serbian language.
+This application provides view of football competitions in Serbia.
+User can add new teams, competitions, matches between teams on each competition,
+players to each team, and statistics of each player on each match,
+on each tournament. In order to start application, user has to import database, located in baza.sql file,
+in folder Baza. User can use either SQLyog or phpMyAdmin as database tool. After importing baza.sql file
+and opening all 3 projects in java IDE  (SeminarskiServer, SeminarskiKlijent, SeminarskiZajednicki),
+user has to start server, and this is done by right clicking formaServer.java located in package forme,
+located in SeminarskiServer project. After starting server, user has to log in,
+and this is done by right clicking formaUlogujSe.java located in package forme in SeminarskiKlijent project.
+User has to sign up in order to continue. Application is done in Serbian language.
