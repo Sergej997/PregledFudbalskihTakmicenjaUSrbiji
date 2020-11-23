@@ -1,16 +1,16 @@
 # Pregled Fudbalskih Takmicenja u Srbiji
-<h4 style="font-weight:100">
+<p>
 It is JAVA GUI application. It
 has been done in NetBeans IDE for java. Application provides work with
 database.E.g. Users can add football teams, competitions, matches,results,
 players and statistics of players on different matches and save them to
-database.</h>
+database.</p>
 
 # Motivation
 
-<h4>
+<p>
 This application aims to simulate model of football association with options to create football tournaments and fill them with clubs, matches, results and statistics of players on different matches.
-</h4>
+</p>
 
 # Screenshots
 
