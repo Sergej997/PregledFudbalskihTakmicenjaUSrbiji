@@ -73,7 +73,7 @@ Creating players statistics<br>
 - [x] Adding new football club
 - [x] Adding new tournament
 - [x] Creating new match and adding result for that match
-- [x] Creating new player
+- [x] Creating new players
 - [x] Adding statistics for player on a certain match
 - [x] Saving data to relational database
 - [ ] Adding search option
